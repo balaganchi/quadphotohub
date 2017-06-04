@@ -1,0 +1,17 @@
+{
+  "name": "yes",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sunilbt"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
